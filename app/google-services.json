@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "993368829827",
+    "firebase_url": "https://quiz-game-43197-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quiz-game-43197",
+    "storage_bucket": "quiz-game-43197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993368829827:android:6c1cce277fa9f5202890b6",
+        "android_client_info": {
+          "package_name": "com.stoe.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993368829827-1lda29h9hdmn1pkjlvn8flbvgj8k4j17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stoe.quizgame",
+            "certificate_hash": "d35f6b5a1b2748b7a9b33bf731fb80904dd5fed3"
+          }
+        },
+        {
+          "client_id": "993368829827-p70ge0eulkmnt9l0n14prtab77aftog8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Un-6pwcBM0-Eiu_oNUjwLzCW_r-WzBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993368829827-p70ge0eulkmnt9l0n14prtab77aftog8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
